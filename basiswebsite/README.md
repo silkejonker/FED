@@ -67,13 +67,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+
+  Breakdownschetsen op miro
+  https://miro.com/app/board/uXjVNLPX6I4=/
+
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -93,27 +95,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
   Student 1: Silke 
-  - breakdown schetsen nalopen
+  breakdown schetsen nalopen
 
   Student 2:Bink 
-  - wat kun je gebruiken ipv div 
+  wat kun je gebruiken ipv div 
 
   Student 3: Zoë
-  - vraag over haar website, html/css
+  vraag over haar website, html/css
 
   Student 4: Kanokphon 
-  - button in een button 
-  - gifjes 
+  button in een button 
+  gifjes 
 
   Student 5: Mees 
-  - font face
+  font face
 
  
 

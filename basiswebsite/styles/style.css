@@ -1,12 +1,10 @@
+
 /**************/
 /* CSS REMEDY */
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
 }
-
-
-
 
 
 
@@ -17,6 +15,7 @@
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	font-family: 'Roboto', sans-serif;
 }
 
 
