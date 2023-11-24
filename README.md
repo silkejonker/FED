@@ -56,8 +56,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-
+  Lijst met je bevindingen die in de test naar voren kwamen: 
 </details>
 
 
@@ -99,6 +98,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
+
+  Student 1: Silke 
+  breakdown schetsen nalopen
+
+  Student 2:Bink 
+  wat kun je gebruiken ipv div 
+
+  Student 3: Zoë
+  vraag over haar website, html/css
+
+  Student 4: Kanokphon 
+  button in een button 
+  gifjes 
+
+  Student 5: Mees 
+  font face
+
+ 
 
 
   ### Verslag van meeting
